@@ -1,0 +1,9 @@
+[project]
+name = "cg2d"
+version = "0.1.0"
+description = "Biblioteca de computação gráfica 2D sobre SDL2"
+requires-python = ">=3.10"
+dependencies = [
+    "pysdl2>=0.9.17",
+    "pysdl2-dll>=2.32",
+]
